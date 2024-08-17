@@ -12,7 +12,7 @@ import { DocumentosService } from './Service/documento.service';
       type: 'mssql',
       host: 'localhost',
       port: 1433,
-      username: 'sa',
+      username: 'teste',
       password: 'teste',
       database: 'teste',
       entities: [Documento],
