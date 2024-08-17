@@ -13,8 +13,8 @@ import { DocumentosService } from './Service/documento.service';
       host: 'localhost',
       port: 1433,
       username: 'sa',
-      password: '1q2w3e4r@@',
-      database: 'PORTAL_SOFTPARK',
+      password: 'teste',
+      database: 'teste',
       entities: [Documento],
       synchronize: true, // use apenas em desenvolvimento
       options: {
